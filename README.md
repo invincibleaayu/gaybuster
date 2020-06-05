@@ -11,4 +11,4 @@ Realtime facial recognition using open _cv to identify the person
 <p>python gaybuster.py</p>
 
 <p> <b>The final output of the image is</b></p>
-![github](https://user-images.githubusercontent.com/44046058/83833108-e4e5d300-a70a-11ea-963d-80f770c9665c.jpg)
+![alt text](https://github.com/invincibleaayu/gaybuster/blob/master/images/guy_images/github.jpg? raw=true)
