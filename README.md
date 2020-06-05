@@ -7,8 +7,8 @@ Realtime facial recognition using open _cv to identify the person
 <p></p>
 <p></p>
 
-<p>to run the program on windows</p>
+<p><b>to run the program on windows</b></p>
 <p>python gaybuster.py</p>
 
-<p> The final output of the image is</p>
+<p> <b>The final output of the image is</b></p>
 ![github](https://user-images.githubusercontent.com/44046058/83833108-e4e5d300-a70a-11ea-963d-80f770c9665c.jpg)
