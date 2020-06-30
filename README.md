@@ -1,5 +1,5 @@
 # gaybuster
-Realtime facial recognition using open _cv to identify the person.This program is made just for fun 
+Realtime facial recognition using open _cv to identify the person.This program is made just for fun.
 <p><b>To run this program first download following using pip</b></p>
 <p>-pip install cv2</p>
 <p>-pip install face_recognition</p>
